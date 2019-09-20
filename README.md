@@ -27,7 +27,7 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ]  Explain benefit(s) using `client-side routing`?
 
-> Answer:
+> Answer: Client side routing is faster without having to use a 3rd party server to retrieve data and comes without the loading refresh side effect.
 
 ## Project Set Up
 
